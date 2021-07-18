@@ -24,6 +24,7 @@
       python3 -m pip install -r requirements.txt
 ## 4. Run Server
       uvicorn country_api:app --reload --port 5000
-## 5. Visit http://localhost:5000
+## 5. Visit in browser
+      http://localhost:5000
       
 
